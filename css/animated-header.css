@@ -42,7 +42,5 @@ header .overlay {
   header {
     background: url(/attack-map.mp4) black no-repeat center center scroll;
   }
-  header video {
-    display: none;
-  }
+  
 }
